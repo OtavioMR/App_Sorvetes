@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
                         Tela02.class);
                 startActivity(intent);
             }
-        },2000);
+        },3000);
     }
 }
